@@ -6,8 +6,6 @@ My journey started around 2017, delving into the captivaring world of molecular 
 
 This GitHub space offers a glimpse into my coding adventures and data-crunching escapades. My toolkit including R, Python, a knack for Bash, and the power of snakemake. So whether you're a fellow bioinformatician, a curious mind, or just interested in genetic data, I hope you can find something here that sparks your next big idea.
 
-Stay happy!
-
 Warmly,
 
 🌱 Felipe.
